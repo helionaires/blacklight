@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "typescript-parsec": "^0.3.4",
+    "typescript-parser": "^2.6.1"
+  }
+}

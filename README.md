@@ -1,6 +1,6 @@
 # Blacklight
 
-## Usage
+## Using Blacklight with Deno
 
 ```shell
 deno run dev
