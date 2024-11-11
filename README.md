@@ -1,7 +1,11 @@
 # Blacklight
 
-## Run with Deno
+## Usage
 
 ```shell
-deno run --watch src/index.ts
+deno run dev
+```
+
+```shell
+deno run build
 ```
