@@ -1,6 +1,11 @@
 {
   "version": "4",
   "specifiers": {
+    "jsr:@helionaires/engram@*": "0.1.0",
+    "jsr:@helionaires/engram@0.1": "0.1.2",
+    "jsr:@helionaires/engram@0.1.1": "0.1.1",
+    "jsr:@helionaires/engram@0.1.2": "0.1.2",
+    "jsr:@helionaires/engram@0.2.6": "0.2.6",
     "jsr:@std/assert@*": "1.0.7",
     "jsr:@std/assert@^1.0.7": "1.0.7",
     "jsr:@std/expect@*": "1.0.7",
@@ -10,6 +15,18 @@
     "npm:typescript-parser@^2.6.1": "2.6.1"
   },
   "jsr": {
+    "@helionaires/engram@0.1.0": {
+      "integrity": "4bf29be0d6c0c61eea182b7a7746b0ed5533f712fe05ab5ab60a0bc8a776a617"
+    },
+    "@helionaires/engram@0.1.1": {
+      "integrity": "e580190804c53d4642299bf2bea4d257a48ebe57971d5198afe6723dafb24549"
+    },
+    "@helionaires/engram@0.1.2": {
+      "integrity": "709e496e742c6c653e3cfa4009aa341073c41f0d025dac8f7483543ab8818e19"
+    },
+    "@helionaires/engram@0.2.6": {
+      "integrity": "7a4605d59a7548fcaf7b34a101546720955e87494526a5a7f7847f2a9749eada"
+    },
     "@std/assert@1.0.7": {
       "integrity": "64ce9fac879e0b9f3042a89b3c3f8ccfc9c984391af19e2087513a79d73e28c3",
       "dependencies": [
